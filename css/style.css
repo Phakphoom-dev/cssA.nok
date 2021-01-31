@@ -268,7 +268,7 @@ div.highlightTextIn a:before
     transform: scale(1.2);
 } 
 
-.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .fimg1, .fimg2, .fimg3, .fimg4, .fimg5, .fimg6 {
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5 {
     position: relative; 
     opacity: 0.90;
     background-position: center;
