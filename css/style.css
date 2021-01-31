@@ -274,6 +274,15 @@ div.highlightTextIn a:before
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.fimg1, .fimg2, .fimg3, .fimg4, .fimg5, .fimg6 {
+    position: relative; 
+    opacity: 0.90;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: scroll;
 }
 
